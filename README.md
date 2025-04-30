@@ -49,3 +49,34 @@ By building this project, I aim to:
 ## 📄 How to Use
 
 Coming soon as development progresses.
+
+## 🎨 UI/UX Design Planning
+
+### 🧭 Design Goals
+
+The primary aim of the UI/UX design is to create a seamless and intuitive user experience that mirrors the core functionality of the AirBnB platform. This includes:
+
+- Ensuring easy navigation and accessibility
+- Designing responsive layouts for mobile and desktop users
+- Highlighting essential content such as property images, descriptions, and booking options
+- Using consistent visual hierarchy and clean aesthetics
+
+### ✨ Key Features to Implement
+
+- **Search and Filter System**: Allow users to easily find properties based on location, price, and amenities.
+- **Responsive Layouts**: Fully functional on all screen sizes.
+- **Interactive Elements**: Like image sliders, clickable cards, and booking forms.
+- **Error Handling**: Feedback for user input and system issues.
+- **Consistent Navigation Bar**: Available on all pages for quick access.
+
+### 📄 Page Descriptions
+
+| Page Name               | Description                                                                 | Key Elements |
+|------------------------|-----------------------------------------------------------------------------|--------------|
+| Property Listing View   | Displays a grid or list of all available property listings with thumbnails, pricing, and basic info. | Search bar, filter controls, property cards, pagination |
+| Listing Detailed View   | Shows full information about a selected property including photos, amenities, reviews, and booking button. | Image carousel, property description, amenities list, reviews section, booking CTA |
+| Simple Checkout View    | A streamlined page for confirming booking details and submitting payment info. | Booking summary, form for user details, payment method, confirm button |
+
+### 🧑‍💻 Why User-Friendly Design Matters
+
+A user-friendly interface is critical in a booking system because it directly affects user trust and conversion. Complex or confusing navigation can discourage users from completing bookings. Intuitive layouts, clear call-to-action buttons, and easy access to property details ensure a positive user experience, increase engagement, and drive successful bookings.
