@@ -80,3 +80,32 @@ The primary aim of the UI/UX design is to create a seamless and intuitive user e
 ### 🧑‍💻 Why User-Friendly Design Matters
 
 A user-friendly interface is critical in a booking system because it directly affects user trust and conversion. Complex or confusing navigation can discourage users from completing bookings. Intuitive layouts, clear call-to-action buttons, and easy access to property details ensure a positive user experience, increase engagement, and drive successful bookings.
+
+
+### 🎨 Color Styles
+
+| Style Name         | rgb                  | 
+|--------------------|----------------------|
+| Primary Color      |rgb(95, 205, 170)   | 
+| Secondary Color    |rgb(49, 47, 47)     | 
+| Secondary color    |rgb(210, 161, 0)    | 
+| shimmer            | #F7F7F7            | 
+
+---
+
+### 🔤 Typography
+
+Font: Quicksan
+weight: 500 - 600
+Size: 19px
+
+### 🧩 Importance of Identifying Design Properties
+
+Understanding design properties like **color**, **typography**, **spacing**, and **component layout** is critical for translating mockups into functional code. These properties ensure:
+
+- **Visual consistency** across the entire application
+- **Improved user experience** through readability and clarity
+- **Efficient collaboration** between designers and developers
+- **Faster development**, reducing the need for guesswork
+
+A well-documented design system makes future updates, collaboration, and handoff much easier.
