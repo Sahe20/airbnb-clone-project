@@ -122,3 +122,33 @@ A well-documented design system makes future updates, collaboration, and handoff
 | **DevOps Engineers**     | - Set up and manage CI/CD pipelines<br>- Deploy and maintain environments (development, staging, production)<br>- Monitor app performance and uptime<br>- Handle logging and incident response |
 | **Product Owner (PO)**   | - Defines the vision and goals of the product<br>- Creates and prioritizes the product backlog<br>- Ensures alignment with user needs and business objectives<br>- Reviews completed features for acceptance |
 | **Scrum Master**         | - Facilitates agile ceremonies (daily stand-ups, sprint planning, reviews)<br>- Removes blockers and ensures team productivity<br>- Promotes agile best practices and continuous improvement<br>- Shields the team from outside disruptions |
+
+## 🧩 UI Component Patterns
+
+### 🔝 Navbar
+- A top-level navigation bar visible on all pages
+- Contains logo/brand name, search bar, and navigation links (e.g., Home, Login, Sign Up, Bookings)
+- May include dropdown menus and responsive behavior for mobile devices
+
+### 🏠 Property Card
+- A reusable card component to display summarized information for each property
+- Includes image thumbnail, property name, location, price per night, and short description
+- Clickable to navigate to the detailed view page
+- Designed for use in the listing view (grid or list layout)
+
+### 📄 Listing Detail Section
+- Displays detailed information about a selected property
+- Includes an image gallery/carousel, full description, amenities, user reviews, and booking form
+
+### 📦 Booking Summary Card
+- A checkout component that summarizes selected booking details (dates, guests, total price)
+- Includes user input forms and confirmation button
+
+### 🧭 Filter Sidebar or Modal
+- Allows users to refine search results based on criteria like price, location, amenities, and availability
+- May be implemented as a collapsible sidebar or pop-up modal
+
+### 📜 Footer
+- Placed at the bottom of all pages
+- Contains links to support, policies, contact, and social media
+- Designed to maintain consistent branding and user support access
