@@ -41,7 +41,6 @@ By building this project, I aim to:
 ### Project Initialization
 
 - [x] Set up GitHub repository
-- [x] Add `.gitignore` and README
 - [ ] Define project structure
 - [ ] Plan UI/UX using Figma
 - [ ] Set up version control workflow
