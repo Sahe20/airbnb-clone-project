@@ -109,3 +109,16 @@ Understanding design properties like **color**, **typography**, **spacing**, and
 - **Faster development**, reducing the need for guesswork
 
 A well-documented design system makes future updates, collaboration, and handoff much easier.
+
+## 👥 Project Roles and Responsibilities
+
+| Role                     | Responsibilities |
+|--------------------------|------------------|
+| **Project Manager (PM)** | - Oversees the overall project timeline and scope<br>- Coordinates team meetings and deadlines<br>- Tracks progress and manages risks<br>- Communicates with stakeholders |
+| **Frontend Developers**  | - Build the user interface using HTML, CSS, and JavaScript (React)<br>- Implement responsive and accessible layouts<br>- Integrate frontend with backend APIs<br>- Ensure consistent styling and interactivity |
+| **Backend Developers**   | - Design and implement server-side logic and RESTful APIs<br>- Manage database connections and models<br>- Handle user authentication and authorization<br>- Ensure performance and security of the backend |
+| **Designers (UI/UX)**    | - Create wireframes, mockups, and prototypes in Figma<br>- Define color schemes, typography, and layout styles<br>- Ensure user-centered design principles are followed<br>- Work closely with developers to implement designs |
+| **QA/Testers**           | - Test features for functionality, usability, and performance<br>- Report bugs and inconsistencies<br>- Write test cases and conduct manual/automated testing<br>- Ensure quality before deployment |
+| **DevOps Engineers**     | - Set up and manage CI/CD pipelines<br>- Deploy and maintain environments (development, staging, production)<br>- Monitor app performance and uptime<br>- Handle logging and incident response |
+| **Product Owner (PO)**   | - Defines the vision and goals of the product<br>- Creates and prioritizes the product backlog<br>- Ensures alignment with user needs and business objectives<br>- Reviews completed features for acceptance |
+| **Scrum Master**         | - Facilitates agile ceremonies (daily stand-ups, sprint planning, reviews)<br>- Removes blockers and ensures team productivity<br>- Promotes agile best practices and continuous improvement<br>- Shields the team from outside disruptions |
